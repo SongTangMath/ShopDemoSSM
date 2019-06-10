@@ -11,6 +11,7 @@ import com.zkdx.database.*;
 public class TestMain {
 
     public static void main(String[] args) {
+
         String resource = "mybatis-config.xml";
         InputStream inputStream = null;
         try {

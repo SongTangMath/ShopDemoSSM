@@ -9,7 +9,7 @@
 <body>
 <p>&nbsp;</p>
 	<p align="center">
-		<a href="index.jsp" >
+		<a href="${pageContext.request.contextPath}/index.jsp" >
 		登录失败，用户名或密码错误，请点击链接重新登录</a>
 	</p>
 </body>
